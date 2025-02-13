@@ -1,0 +1,20 @@
+Setup and Installation:
+
+Step by Step:
+
+Turn off Antivirus so the file does not get deleted
+
+Download and open Bootstrapper.exe
+
+Wait for the GUI to open
+
+Press inject and wait a few seconds
+
+Wait for a beep
+
+When beep close and open your desired game
+
+
+Supported AC:
+
+EAC and EAC ONLY!
